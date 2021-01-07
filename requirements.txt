@@ -23,7 +23,7 @@ ipaddress==1.0.18
 ipython==5.4.1
 ipython-genutils==0.2.0
 jieba==0.39
-lxml==3.8.0
+lxml==4.6.2
 Markdown==2.6.9
 matplotlib==2.0.2
 numpy==1.13.1
