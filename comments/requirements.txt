@@ -20,7 +20,7 @@ hyperlink==17.3.0
 idna==2.6
 incremental==17.5.0
 ipaddress==1.0.18
-ipython==5.4.1
+ipython==7.16.3
 ipython-genutils==0.2.0
 jieba==0.39
 lxml==3.8.0
